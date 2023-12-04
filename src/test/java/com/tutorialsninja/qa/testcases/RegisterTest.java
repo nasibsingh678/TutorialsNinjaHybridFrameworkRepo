@@ -12,7 +12,7 @@ import com.tutorialsninja.qa.pages.RegisterPage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
+// I have made the change to RegisterTest Also
 public class RegisterTest extends Base{
 	
 	public RegisterTest()
